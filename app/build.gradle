@@ -11,7 +11,7 @@ android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.recipesapp"
+        applicationId "com.example.cryptocurrencyapp"
         minSdk 21
         targetSdk 33
         versionCode 1
